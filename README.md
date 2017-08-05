@@ -11,7 +11,7 @@ _Introductory website. Made to practice HTML and CSS._
 ## Setup/Installation Requirements
 
 * Clone this repository
-* Open index.html in web browser of your choice
+* Open my-first-webpage.html in web browser of your choice
 
 ## Support and contact details
 
